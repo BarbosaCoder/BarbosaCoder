@@ -62,8 +62,9 @@
   </a>
 </div>
 
-<!-- Divisor animado -->
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif" width="100%" height="70" alt="divider">
+<!-- Divisor animado roxo -->
+![divider](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif)
+
 
 <!-- GIF animado centralizado -->
 <div align="center">
