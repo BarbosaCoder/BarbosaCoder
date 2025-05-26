@@ -63,7 +63,7 @@
 </div>
 
 <!-- Divisor animado roxo -->
-![divider](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif)
+![divider](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif)
 
 
 <!-- GIF animado centralizado -->
