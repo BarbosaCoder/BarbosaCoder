@@ -23,7 +23,7 @@
 
 <!-- Trophies animados -->
 <div align="center" style="margin:30px 0">
-  <img src="https://img.icons8.com/color/48/my-melody.png" alt="trophies" />
+  <img src="https://img.icons8.com/fluency/48/my-melody.png" alt="trophies" />
 </div>
 
 <!-- Skills com hover animation -->
