@@ -28,7 +28,7 @@
 ## 🚀 Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/-Html-000?style=for-the-badge&logo=Html&logoColor=red)
+![Html](https://img.shields.io/badge/-Html-000?style=for-the-badge&logo=html&logoColor=red)
 ![Css](https://img.shields.io/badge/-Css-000?style=for-the-badge&logo=Css&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&logoColor=blue)
@@ -37,7 +37,7 @@
 <!-- Ferramentas -->
 ## 🧰 Ferramentas
 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=vscode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=blue)
