@@ -28,9 +28,10 @@
 ## 🚀 Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Html](https://img.shields.io/badge/-Html-000?style=for-the-badge&logo=Html&logoColor=red)
+![Css](https://img.shields.io/badge/-Css-000?style=for-the-badge&logo=Css&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp&logoColor=purple)
+![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 
 <!-- Ferramentas -->
