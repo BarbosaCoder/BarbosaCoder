@@ -5,7 +5,7 @@
 
 <!-- Nome com animação de digitação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=6A11CB&width=1000&lines=Olá,+meu+nome+é+Matheus+Barbosa.;Sou+desenvolvedor+fullstack;Seja+Bem-vindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=6A11CB&width=1000&lines=Olá,+meu+apelido+é+999.barbosa.;Sou+desenvolvedor+fullstack;Seja+Bem-vindo!" />
 </h1>
 
 <!-- Área para imagem de perfil -->
