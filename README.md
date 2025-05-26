@@ -23,7 +23,7 @@
 
 <!-- Trophies animados -->
 <div align="center" style="margin:30px 0">
-  <img src="https://github-profile-trophy.vercel.app/?username=999barbosa&theme=radical&row=1&column=7&no-bg=true&no-frame=true&margin-w=20&rank=-?" alt="trophies" />
+  <img src="https://img.icons8.com/color/48/my-melody.png" alt="trophies" />
 </div>
 
 <!-- Skills com hover animation -->
