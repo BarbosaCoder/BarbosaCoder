@@ -30,7 +30,7 @@
 ## 🚀 **Habilidades**
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&color=000000"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000"/></a>
@@ -79,16 +79,4 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=footer&animation=fadeIn&fontAlignY=40&stroke=6A11CB&strokeWidth=0"/>
 </p>
 
-<style>
-  @keyframes gradient {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-  }
-  
-  body {
-    background: linear-gradient(-45deg, #6a11cb, #2575fc);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-  }
-</style>
+
