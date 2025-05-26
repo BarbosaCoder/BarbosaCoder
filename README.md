@@ -63,7 +63,7 @@
 </div>
 
 <!-- Divisor animado -->
-<img src="https://github.com/999barbosa/999barbosa/blob/main/svg/divider.svg" width="100%" height="70" alt="divider">
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif" width="100%" height="70" alt="divider">
 
 <!-- GIF animado centralizado -->
 <div align="center">
