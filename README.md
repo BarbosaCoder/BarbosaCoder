@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9400d3,0000FF&height=120&section=header&animation=fadeIn&fontAlignY=40&descAlignY=65&stroke=8e44ad&strokeWidth=0"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A11CB&gradient=linear&height=120&section=header&animation=fadeIn"/>
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <!-- Imagem de perfil com hover -->
 <div align="center" style="padding:30px 0">
-  <img src="https://github.com/999barbosa.png" width="200" style="border-radius:50%;box-shadow:0 0 30px #6a11cb;transition:transform .5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'" alt="Foto de perfil"/>
+  <img src="https://static.wikia.nocookie.net/viloes/images/6/61/Conquista_Animado.webp/revision/latest?cb=20250315213831&path-prefix=pt-br" width="200" style="border-radius:50%;box-shadow:0 0 30px #6a11cb;transition:transform .5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'" alt="Foto de perfil"/>
 </div>
 
 <!-- Status com gradiente animado -->
@@ -77,7 +77,7 @@
 
 <!-- Footer com gradiente animado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=footer&animation=fadeIn&fontAlignY=40&stroke=6A11CB&strokeWidth=0"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2575FC&gradient=linear&height=120&section=header&animation=fadeIn"/>
 </p>
 
 
