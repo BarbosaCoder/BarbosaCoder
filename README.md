@@ -11,8 +11,8 @@
 </div>
 
 <!-- Imagem de perfil com hover -->
-<div align="center" style="padding:30px 0">
-  <img src="https://static.wikia.nocookie.net/viloes/images/6/61/Conquista_Animado.webp/revision/latest?cb=20250315213831&path-prefix=pt-br" width="200" style="border-radius:50%;box-shadow:0 0 30px #6a11cb;transition:transform .5s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'" alt="Foto de perfil"/>
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/1/19/Conquista.png/revision/latest?cb=20250215155454&path-prefix=pt-br" width="200" style="border-radius:50%;border:3px solid #6A11CB;animation:border-pulse 2s infinite;box-shadow:0 0 20px #2575FC"/>
 </div>
 
 <!-- Status com gradiente animado -->
