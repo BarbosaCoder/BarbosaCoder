@@ -68,7 +68,7 @@
 
 <!-- GIF animado centralizado -->
 <div align="center">
-  <img src="https://img.icons8.com/deco/48/user-male-circle.png" width="400" style="border-radius:20px;box-shadow:0 0 30px #6a11cb"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-user-web-flaticons-lineal-color-flat-icons-6.png" width="400" style="border-radius:20px;box-shadow:0 0 30px #6a11cb"/>
 </div>
 
 <!-- Contador de visitas estilizado -->
