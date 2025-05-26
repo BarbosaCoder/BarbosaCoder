@@ -1,4 +1,4 @@
-<!-- Header com gradiente animado -->
+<!-- Header com gradiente animado em ondas (roxo e azul) -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=header&animation=fadeIn&fontAlignY=40&descAlignY=65&stroke=6A11CB&strokeWidth=0"/>
 </p>
