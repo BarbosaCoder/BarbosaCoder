@@ -30,13 +30,14 @@
 ## 🚀 **Habilidades**
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&color=000000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
 </div>
+
 
 <!-- Ferramentas com gradiente -->
 ## 🧰 **Ferramentas**
