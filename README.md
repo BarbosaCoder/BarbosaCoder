@@ -68,7 +68,7 @@
 
 <!-- GIF animado centralizado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius:20px;box-shadow:0 0 30px #6a11cb"/>
+  <img src="https://img.icons8.com/deco/48/user-male-circle.png" width="400" style="border-radius:20px;box-shadow:0 0 30px #6a11cb"/>
 </div>
 
 <!-- Contador de visitas estilizado -->
