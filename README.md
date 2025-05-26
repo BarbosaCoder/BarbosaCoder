@@ -15,8 +15,8 @@
 
 <!-- Status e linguagens -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=999barbosa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6A11CB&text_color=ffffff&icon_color=2575fc"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999barbosa&layout=compact&hide_border=true&bg_color=0d1117&title_color=6A11CB&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbosaCoder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6A11CB&text_color=ffffff&icon_color=2575fc"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaCoder&layout=compact&hide_border=true&bg_color=0d1117&title_color=6A11CB&text_color=ffffff"/>
 </div>
 
 <!-- Trophies com animação -->
