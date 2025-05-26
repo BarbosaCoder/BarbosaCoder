@@ -39,14 +39,14 @@
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Contatos -->
 ## 📲 Contato
 
 <p align="center">
-  <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+  <a href="https://instagram.com/999.barbosa" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/seu_discord_id_aqui" target="_blank">
