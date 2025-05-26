@@ -39,7 +39,7 @@
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Contatos -->
