@@ -35,6 +35,8 @@
   <a href="#"><img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n&logoColor=orange" /></a>
+
 </div>
 
 <!-- Tools -->
